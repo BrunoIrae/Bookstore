@@ -4,6 +4,6 @@
 
 > Status: Developing 🧑‍💻
 
-### Isso é uma aplicação web voltada para um cadastro de livros 
+### Isso é uma aplicação web voltada para leitura de livros (e-books)
 
 
